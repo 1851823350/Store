@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * @author 吴先森
- * @description:
+ * @description: 拦截器的相关配置
  * @create 2022-05-17 22:18
  */
 @Configuration
